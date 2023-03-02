@@ -40,4 +40,4 @@ INSERT INTO propietarios (DNI, nombre, telefono) VALUES('89127544P', 'Andres', 6
                                                        
 INSERT INTO animales (codigo, nombre, especie, raza, color_pelo, fecha_nacimiento, DNI_propietario) VALUES( 6666666, 'sira', 'gato', 'persa', 'gris', '2002/01/01', '49056787Q');
 INSERT INTO animales (codigo, nombre, especie, raza, color_pelo, fecha_nacimiento, DNI_propietario) VALUES( 6666669, 'coco', 'perro', 'pastor aleman', 'negro', '2002/01/01', '57568933j');    
-INSERT INTO animales (codigo, nombre, especie, raza, color_pelo, fecha_nacimiento, DNI_propietario)NVALUES( 6666661, 'toby', 'perro', 'yorsair', 'marron, '2002/01/01', '89127544P');                                                       
+INSERT INTO animales (codigo, nombre, especie, raza, color_pelo, fecha_nacimiento, DNI_propietario) VALUES( 6666661, 'toby', 'perro', 'yorsair', 'marron, '2002/01/01', '89127544P');                                                       
